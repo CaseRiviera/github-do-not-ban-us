@@ -1,0 +1,9 @@
+// caseriviera
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "GitHub is for everyone!\n" << endl;
+  return 0;
+ }
